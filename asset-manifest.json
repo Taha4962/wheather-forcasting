@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wheather-forcasting.git/static/css/main.75107124.css",
+    "main.js": "/wheather-forcasting.git/static/js/main.9e9aeb74.js",
+    "static/media/bootstrap-icons.woff?": "/wheather-forcasting.git/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/wheather-forcasting.git/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/wheather-forcasting.git/index.html",
+    "main.75107124.css.map": "/wheather-forcasting.git/static/css/main.75107124.css.map",
+    "main.9e9aeb74.js.map": "/wheather-forcasting.git/static/js/main.9e9aeb74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75107124.css",
+    "static/js/main.9e9aeb74.js"
+  ]
+}
