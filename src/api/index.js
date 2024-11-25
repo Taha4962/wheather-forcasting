@@ -1,5 +1,5 @@
 import axios from "axios";
-const API_KEY = "process.env.TOKEN_KEY";
+const API_KEY = process.env.TOKEN_KEY;
 
 export async function getWeatherData(endpoint, place_id, measurementSystem) {
   const options = {
